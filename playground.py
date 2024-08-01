@@ -14,4 +14,4 @@ bc_name, title_name = {
     "cn": ['我们的移动应用程序', 'Capital.com 移動應用程序'],
 }.get(cur_language, ("", ""))
 
-#sdfsd
+#sdfsd sadasd
